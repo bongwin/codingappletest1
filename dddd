@@ -1,0 +1,29 @@
+[33mcommit 6acd5735c1ec824acec370657545828695c1436c[m[33m ([m[1;36mHEAD -> [m[1;32mgit001[m[33m)[m
+Author: sungchulbong <bongwin@gmail.com>
+Date:   Sat Oct 22 15:27:01 2022 +0900
+
+    모든 파일 커밋
+
+[33mcommit 5cc67a8678f1b8d826668a39409c5f856fcb998c[m[33m ([m[1;32mmain[m[33m)[m
+Author: sungchulbong <bongwin@gmail.com>
+Date:   Sun Oct 2 11:35:28 2022 +0900
+
+    아이콘으로 add commit
+
+[33mcommit 699ccdef6d2a038a48f5cfe7ff7a50b3b466f871[m
+Author: sungchulbong <bongwin@gmail.com>
+Date:   Sun Oct 2 11:22:20 2022 +0900
+
+    세번째 만들고 테스트
+
+[33mcommit fac27fe1f8907a87c37aa85489c3bf46bcee9423[m
+Author: sungchulbong <bongwin@gmail.com>
+Date:   Sun Oct 2 11:20:58 2022 +0900
+
+    message 2
+
+[33mcommit 0c3a9f8bc4d980b1def34f65c1702d13747a58d4[m
+Author: sungchulbong <bongwin@gmail.com>
+Date:   Sun Oct 2 11:19:54 2022 +0900
+
+    message 1
